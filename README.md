@@ -17,7 +17,7 @@
 
 ## 📫 How to reach me:
 - Correo: neyrajcf@gmail.com (reemplaza con tu correo real)
-- Instagram: [@tu_usuario](https://www.instagram.com/code_neyra/) (reemplaza con tu usuario real)
+- Instagram: [@code_neyra](https://www.instagram.com/code_neyra/) (reemplaza con tu usuario real)
 
 ## 😄 Pronouns:
 - Él / Him
