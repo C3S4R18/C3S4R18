@@ -16,8 +16,8 @@
 - Cualquier proyecto interesante que involucre aprendizaje y crecimiento
 
 ## 📫 How to reach me:
-- Correo: neyrajcf@gmail.com (reemplaza con tu correo real)
-- Instagram: [@code_neyra](https://www.instagram.com/code_neyra/) (reemplaza con tu usuario real)
+- Correo: neyrajcf@gmail.com
+- Instagram: [@code_neyra](https://www.instagram.com/code_neyra/)
 
 ## 😄 Pronouns:
 - Él / Him
