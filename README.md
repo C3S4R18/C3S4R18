@@ -14,13 +14,7 @@
 - Proyectos web
 - Aplicaciones de ciencia de datos
 - Cualquier proyecto interesante que involucre aprendizaje y crecimiento
+- Aplicaciones moviles
 
-## 📫 How to reach me:
-- Correo: neyrajcf@gmail.com
-- Instagram: [@code_neyra](https://www.instagram.com/code_neyra/)
 
-## 😄 Pronouns:
-- Él / Him
-
-## ⚡ Fun fact:
-- ¡Me encanta aprender cosas nuevas y resolver problemas complejos!
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=C3S4R18&theme=tokyonight)](https://git.io/streak-stats)
